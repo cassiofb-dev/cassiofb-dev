@@ -2,18 +2,18 @@
 I'm a brazilian CS student and love everything about programming!
 ### Thats what I'm doing currently:
 - FreeCodeCamp: Front End Libraries
-- Super Ultra Mega Lighting Faster Responsive [webpages](https://cassiofb-dev.github.io/celer/) with theme
+- Super Ultra Mega Lighting Faster Responsive <a href="https://cassiofb-dev.github.io/celer/" target="_blank">webpages</a> with theme
 - 100 Days of Code: Day 16
 - Looking to connect with amazing developers
-## [Github Stats](https://github.com/anuraghazra/github-readme-stats)
+## <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Github Stats</a>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cassiofb-dev&layout=compact&theme=dracula" />
 
 ![Cassiofb-dev's github stats](https://github-readme-stats.vercel.app/api?username=cassiofb-dev&show_icons=true&theme=dracula)
 ## Let's connect!
-<img alt="Cássio Fernando | Twitter" src="https://i.imgur.com/NNMScon.png" />
-<a href="https://twitter.com/cassiofb_dev">
-  <img alt="Cássio Fernando | Twitter" src="https://cdn.svgporn.com/logos/twitter.svg" />
+<a align="left" href="https://twitter.com/cassiofb_dev" target="_blank">
+  <img alt="Cássio Fernando" src="https://cdn.svgporn.com/logos/twitter.svg" />
 </a>
+<img align="right" alt="Cássio Fernando | Twitter" src="https://i.imgur.com/NNMScon.png" />
 
 <!--
 ### Hi there 👋
