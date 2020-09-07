@@ -1,6 +1,6 @@
 
 ## Hello everyone, I'm Cassio
-I'm a brazilian CS student and love everything about programming!
+I'm a brazilian CS student that loves everything about astronomy, math and programming!
 ## Github Template
 - 🔭 I’m currently working on building light webpages
 - 🌱 I’m currently learning React
