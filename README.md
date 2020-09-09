@@ -13,7 +13,7 @@ I'm a brazilian CS student that loves everything about astronomy, math and progr
 ### That's what I'm doing currently:
 - FreeCodeCamp: Front End Libraries
 - Super Ultra Mega Lighting Faster Responsive <a href="https://cassiofb-dev.github.io/celer/" target="_blank">webpages</a> with theme
-- 100 Days of Code: Day 21
+- 100 Days of Code: Day 22
 - Looking to connect with amazing developers
 ## <a href="https://github.com/anuraghazra/github-readme-stats">Github Stats</a>
 ![Cassiofb-dev's github stats](https://github-readme-stats.vercel.app/api?username=cassiofb-dev&show_icons=true&theme=dracula&line_height=21)
