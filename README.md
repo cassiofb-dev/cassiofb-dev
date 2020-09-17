@@ -13,15 +13,15 @@ I'm a brazilian CS student that loves everything about astronomy, math and progr
 ### That's what I'm doing currently:
 - FreeCodeCamp: Data visualization with JS
 - Super Ultra Mega Lighting Faster Responsive <a href="https://cassiofb-dev.github.io/celer/" target="_blank">webpages</a> with theme
-- 100 Days of Code: Day 30
+- 100 Days of Code: Day 31
 - Looking to connect with amazing developers
 - Code Pen projects
 ## <a href="https://github.com/anuraghazra/github-readme-stats">Github Stats</a>
 ![Cassiofb-dev's github stats](https://github-readme-stats.vercel.app/api?username=cassiofb-dev&show_icons=true&theme=dracula&line_height=21)
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cassiofb-dev&layout=compact&theme=dracula" />
 ## Let's connect!
-<a href="https://twitter.com/cassiofb_dev">
-  <img width="128px" align="center" alt="Cássio Fernando" src="https://cdn.svgporn.com/logos/twitter.svg" />
+<a href="https://www.linkedin.com/in/cassiofb-dev/">
+  <img alt="Cássio Fernando" src="https://cdn.svgporn.com/logos/linkedin.svg" />
 </a>
 
 <!--
