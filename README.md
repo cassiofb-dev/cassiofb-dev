@@ -1,25 +1,39 @@
 
-## Hello everyone, I'm Cassio
+## Hello everyone, Cassio here!
+
 I'm a brazilian CS student that loves everything about astronomy, math and programming!
-## Github Template
-- 🔭 I’m currently working on building light webpages
-- 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate on <a href="https://cassiofb-dev.github.io/algorithms/">Algorithms</a>
-- 🤔 I’m looking for help with reducing webpage size and loading time even more
-- 💬 Ask me about anything!
-- 📫 How to reach me: Twitter
-- 😄 Pronouns: I/You/He/She/It/We/You/They
-- ⚡ Fun fact: Broke every limb 🤣
-### That's what I'm doing currently:
-- FreeCodeCamp: Data visualization with JS
-- Super Ultra Mega Lighting Faster Responsive <a href="https://cassiofb-dev.github.io/celer/" target="_blank">webpages</a> with theme
-- 100 Days of Code: Day 52
-- Looking to connect with amazing developers
-- Code Pen projects
+
+[Nice music](https://www.youtube.com/watch?v=i6G6dmVJy74)!
+
+[Lyrics](https://www.python.org/dev/peps/pep-0020/):
+
+> Beautiful is better than ugly.<br>
+> Explicit is better than implicit.<br>
+> Simple is better than complex.<br>
+> Complex is better than complicated.<br>
+> Flat is better than nested.<br>
+> Sparse is better than dense.<br>
+> Readability counts.<br>
+> Special cases aren't special enough to break the rules.<br>
+> Although practicality beats purity.<br>
+> Errors should never pass silently.<br>
+> Unless explicitly silenced.<br>
+> In the face of ambiguity, refuse the temptation to guess.<br>
+> There should be one-- and preferably only one --obvious way to do it.<br>
+> Although that way may not be obvious at first unless you're Dutch.<br>
+> Now is better than never.<br>
+> Although never is often better than *right* now.<br>
+> If the implementation is hard to explain, it's a bad idea.<br>
+> If the implementation is easy to explain, it may be a good idea.<br>
+> Namespaces are one honking great idea -- let's do more of those!<br>
+
 ## <a href="https://github.com/anuraghazra/github-readme-stats">Github Stats</a>
+
 ![Cassiofb-dev's github stats](https://github-readme-stats.vercel.app/api?username=cassiofb-dev&show_icons=true&theme=dracula&line_height=21)
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cassiofb-dev&layout=compact&theme=dracula" />
+
 ## Let's connect!
+
 <a href="https://www.linkedin.com/in/cassiofb-dev/">
   <img alt="Cássio Fernando" src="https://cdn.svgporn.com/logos/linkedin.svg" />
 </a>
