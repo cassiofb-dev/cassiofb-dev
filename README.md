@@ -38,6 +38,10 @@ I'm a brazilian CS student that loves everything about astronomy, math and progr
   <img alt="Cássio Fernando" src="https://cdn.svgporn.com/logos/linkedin.svg" />
 </a>
 
+## Amazing art by supercatpeople#6483
+
+![amazing-art](https://i.imgur.com/BzEx7zS.png)
+
 <!--
 ### Hi there 👋
 
