@@ -4,6 +4,8 @@ I'm a brazilian CS student that loves everything about astronomy, math and progr
 
 Checkout this [Nice music](https://www.youtube.com/watch?v=i6G6dmVJy74)!
 
+<br>
+
 ## ⚙️ Skills and Tools:
 
 <div align="left">
@@ -50,6 +52,8 @@ Checkout this [Nice music](https://www.youtube.com/watch?v=i6G6dmVJy74)!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
 </div>
 
+<br>
+
 ## 📫 Socials:
 
 <div align="left">
@@ -66,6 +70,8 @@ Checkout this [Nice music](https://www.youtube.com/watch?v=i6G6dmVJy74)!
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<br>
 
 ## 🤓 Stats
 
