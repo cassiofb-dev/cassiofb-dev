@@ -1,6 +1,6 @@
 # Hi, Cassio here! I'm a Brazilian fullstack dev.
 
-I'm a brazilian CS student that loves everything about astronomy, math and programming!
+I'm a brazilian CS grad that loves everything about astronomy, math and programming!
 
 Checkout this [Nice music](https://www.youtube.com/watch?v=i6G6dmVJy74)!
 
